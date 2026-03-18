@@ -1,5 +1,18 @@
-Task Manager App (Laravel)
+# Task Manager App (Laravel)
 
-- Built with Laravel, MySQL, Bootstrap
-- Features: CRUD (Create, Read, Update, Delete)
-- Simple task tracking system
+## Description
+A simple task management web application built using Laravel and MySQL.
+
+## Features
+- Add tasks
+- Edit tasks
+- Delete tasks
+- View all tasks
+
+## Technologies Used
+- PHP (Laravel)
+- MySQL
+- Bootstrap
+
+## Author
+Peter T. Owoseni
